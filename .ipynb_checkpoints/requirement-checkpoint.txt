@@ -1,0 +1,12 @@
+mtcnn
+keras_vggface
+tensorflow
+keras
+opencv
+PIL
+numpy
+opencv
+pafy
+youtubedl
+ffpyplayer
+pywhatkit
