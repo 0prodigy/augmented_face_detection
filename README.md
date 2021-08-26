@@ -3,6 +3,19 @@
 
 ## Aim and Objective of Augmented Reality Hackathon:
 {google_docs}https://docs.google.com/presentation/d/1OXIFc7ixV2P4Dh9nspsx9VobnxeFBc0hw0p9tITyo0I/edit#slide=id.g1f87997393_0_782)|https:yes{/google_docs}
-# This repo has a video on its readme :p
-![image](https://user-images.githubusercontent.com/64470724/130913412-bfceff06-69e6-46f7-b9d1-874924276813.png)
+
+# This repo has a video Demonstrated :p
+
+<!DOCTYPE html>
+<html>
+<body>
+  
+  <iframe src="https://drive.google.com/file/d/16Y6k30nbHNAntSQZhQOhOwNvCxTqG0Sz/view/preview" ></iframe>
+  
+  <!--aloow full screen add tag -->
+  
+<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
+
+</body>
+</html>
 
